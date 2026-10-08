@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm jbaejb327, I'm 14 and I code in Java.
+
+I am a 6b6t/8b8t player but i've became inactive. 
+I am an independent developer, coding for blitzclient.win, and Kryn. 
+I joined 6b6t in 2024 and started programming in early 2025, starting with a JS kit-bot using a library called mineflayer.
+After programming that bot, I learned Java, and started coding Minecraft "utility" clients.
+
+Welcome to my GitHub page, and I hope my repos help you greatly
 
 <!--
 **jbaejb327/jbaejb327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
